@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+requests
+beautifulsoup4
+sumy
+nltk
+gtts
+googletrans==4.0.0-rc1
